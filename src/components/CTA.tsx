@@ -1,5 +1,3 @@
-import React from "react";
-
 const CTA = () => {
   return (
     <section className="flex flex-col justify-center w-full max-lg:px-4 lg:w-[60%] mx-auto py-20 text-center space-y-4">

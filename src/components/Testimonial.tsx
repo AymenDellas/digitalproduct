@@ -1,5 +1,3 @@
-import React from "react";
-
 const Testimonial = () => {
   return (
     <section className="flex flex-col justify-center w-full max-lg:px-4  lg:px-96 mx-auto py-20 bg-gray-100 space-y-4">
